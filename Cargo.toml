@@ -15,10 +15,10 @@ documentation = "https://docs.rs/crate/rocket-file-cache"
 license-file = "LICENSE"
 
 [dependencies]
-rocket = "0.3.5"
-log = "0.3.8"
+rocket = "0.4.10"
+log = "0.4.14"
 concurrent-hashmap = "0.2.2"
 
 [dev-dependencies]
-tempdir = "0.3.5"
-rand = "0.3"
+tempdir = "0.3.7"
+rand = "0.8.4"
